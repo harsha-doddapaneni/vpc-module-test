@@ -18,4 +18,4 @@ output "public_subnet_ids" {
 #     value = module.vpc.main_route_table_info
 # }
 
-                            
+                             
